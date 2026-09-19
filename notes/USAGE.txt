@@ -1,0 +1,2 @@
+/* rev-a91e2c-20260919 */
+enable HAGS, scan exe, pick scheme, install, turn on FG
